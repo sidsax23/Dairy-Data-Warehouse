@@ -1,0 +1,26 @@
+Product ID,Product Name,Product Type,Product Sub-Type,Product Selling Price,Product Cost (Individual Product Cost),Shelf Life (in days)
+1,Amul A2 Cow Milk 1L,Cow Milk,Pasteurised,85,68,2
+2,Amul Cow Milk 1L,Cow Milk,Pasteurised,56,45,2
+3,Amul Slim Trim 1L,Buffalo Milk,Skimmed,42,34,2
+4,Amul Taaza 1L,Buffalo Milk,Toned,54,43,2
+5,Amul Gold 1L,Buffalo Milk,Pasteurised,66,53,2
+6,Amul Fruit N Nut Chocolate 40G,Chocolate,Milk,25,20,180
+7,Amul Milk Chocolate 150G,Chocolate,Milk,100,80,180
+8,Amul Milk Chocolate 40G,Chocolate,Milk,25,20,180
+9,Amul Dark Chocolate 40G,Chocolate,Dark,25,20,180
+10,Amul Dark Chocolate 150G,Chocolate,Dark,100,80,180
+11,Amul Chocolate Ice-Cream,Ice-Cream,Cone,35,28,90
+12,Amul Chocolate Ice-Cream 1L,Ice-Cream,Family Pack,125,100,90
+13,Amul Chocolate Ice-Cream,Ice-Cream,Cup,20,16,90
+14,Amul Butterscotch Ice-Cream,Ice-Cream,Cone,35,28,90
+15,Amul Butterscotch Ice-Cream 1L,Ice-Cream,Family Pack,125,100,90
+16,Amul Butterscotch Ice-Cream,Ice-Cream,Cup,20,16,90
+17,Amul Butter 200G,Butter,Salted,60,48,90
+18,Amul Butter Unsalted 200G,Butter,Unsalted,80,64,90
+19,Amul Ghee 1L,Ghee,Ghee,500,400,365
+20,Amul Cow Ghee 1L,Ghee,Cow Ghee,550,440,365
+21,Amul Fresh Cream 25G,Cream,Fresh Cream,25,20,30
+22,Amul Shrikhand 50G,Curd,Sweet,20,16,7
+23,Amul Lassi 200ml,Curd,Sweet,20,16,7
+24,Amul Curd 200ml,Curd,Curd,20,16,7
+25,Amul Mishti Doi 200ml,Curd,Sweet,30,24,7
